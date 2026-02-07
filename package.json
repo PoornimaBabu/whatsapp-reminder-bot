@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-reminder-bot",
+  "version": "1.0.0",
+  "description": "Sends reminder via whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Poornima Babu",
+  "license": "ISC",
+  "dependencies": {
+    "chrono-node": "^2.3.4",
+    "node-cron": "^4.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.28.0"
+  }
+}
